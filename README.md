@@ -37,7 +37,7 @@
 
 6. **Uses and Applications**:
    Linear regression is widely used in various fields such as economics, business, healthcare, and social sciences for predicting outcomes, understanding relationships between variables, and making decisions based on data. For example, it can be used to predict house prices based on square footage or to understand how study time influences exam scores.
-
+---
 ### Example:
 Let’s say you want to predict a student’s test score based on the number of hours they studied. If you have data on several students, you can fit a linear regression model to estimate the relationship between study time and test scores.
 
@@ -48,4 +48,4 @@ Given a regression equation:
 - The **intercept** is 40, which means if a student did not study at all (0 hours), they are expected to score 40.
 - The **slope** is 5, meaning for each additional hour spent studying, the student’s test score is expected to increase by 5 points.
 
-In summary, linear regression is a foundational tool in predictive modeling that helps establish relationships between variables and make informed predictions.
+Linear Regression is a foundational tool in predictive modeling that helps establish relationships between variables and make informed predictions.
